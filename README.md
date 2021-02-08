@@ -1,4 +1,4 @@
-# docker-valheim
+# docker-valheim-server
 Docker server for Valheim
 
 [https://store.steampowered.com/app/892970/Valheim/](https://store.steampowered.com/app/892970/Valheim/)

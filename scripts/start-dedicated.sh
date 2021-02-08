@@ -11,7 +11,7 @@ while true; do
 ./data/valheim_server.x86_64 \
   -name "${SERVER_NAME}" \
   -port ${SERVER_PORT} \
-  -world "${SERVER_WORLD}" \
+  -world ${SERVER_WORLD} \
   -password ${SERVER_PASSWORD} \
   -public 1
 done

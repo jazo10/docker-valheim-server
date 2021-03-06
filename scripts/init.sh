@@ -1,2 +1,2 @@
 #!/bin/bash
-steamcmd +runscript ./install.txt
+steamcmd +runscript ./scripts/install.txt

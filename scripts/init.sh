@@ -1,2 +1,2 @@
 #!/bin/bash
-steamcmd +runscript ./scripts/install.txt
+steamcmd +runscript /home/valheim/scripts/install.txt
